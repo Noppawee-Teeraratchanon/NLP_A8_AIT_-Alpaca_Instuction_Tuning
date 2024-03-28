@@ -1,4 +1,4 @@
-# NLP_A8_AIT_-Alpaca_Instuction_Tuning
+# NLP_A8_AIT_Alpaca_Instuction_Tuning
 
 
 To run app, 
